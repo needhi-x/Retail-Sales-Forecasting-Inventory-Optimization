@@ -66,10 +66,10 @@ python main.py
 ## 📸 Results
 
 ### Forecast Table
-![Forecast](images/forecast_table.png)
+![Forecast](images/Forecast_graph.png)
 
 ### Forecast Graph
-![Graph](images/forecast_graph.png)
+![Graph](images/Forecast_table.png)
 
 ### Inventory Table
 ![Inventory](images/inventory_table.png)
